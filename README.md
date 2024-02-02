@@ -6,12 +6,17 @@
   <h1 align="center">Merhaba 👋, Ben astezia</h1>
 <h3 align="center">Ben onaylı bot geliştiricisi ve Front end developerım.</h3>
 
+- ### Projelerim:
 
-###
+<div align="left">
+<a href="https://discord.com/api/oauth2/authorize?client_id=1132625118779154494&scope=bot+applications.commands&permissions=8" target="_blank">
+    <img src="https://cdn.discordapp.com/avatars/1132625118779154494/f36096f995c9244a7e0298eeeadd53d0.webp" width="40" height="40" alt="discord logo"  />
+</a>
+<a href="https://discord.gg/aoijs" target="_blank">
+    <img src="https://cdn.discordapp.com/icons/1084863647211339807/a_f795b039af5ed1345245c96a3bd0b83a.gif" width="40" height="40" alt="discord logo"  />
+</div>
 
--  [Lyra'yı Davet Etmek İçin Tıkla!](https://discord.com/api/oauth2/authorize?client_id=1132625118779154494&scope=bot+applications.commands&permissions=8)
-
--  [Kod Sunucuma Gelmek İçin Tıkla!](https://discord.gg/aoijs)
+<br />
 
 -  ### İletişime geçmek için:
 
@@ -25,19 +30,6 @@
   <a href="https://discord.com/api/oauth2/authorize?client_id=1132625118779154494&scope=bot+applications.commands&permissions=8" target="_blank">
     <img src="https://cdn.discordapp.com/avatars/1132625118779154494/f36096f995c9244a7e0298eeeadd53d0.webp" width="40" height="40" alt="discord logo"  />
 </div>
-
-- ### Projelerim:
-
-<div align="left">
-<a href="https://discord.com/api/oauth2/authorize?client_id=1132625118779154494&scope=bot+applications.commands&permissions=8" target="_blank">
-    <img src="https://cdn.discordapp.com/avatars/1132625118779154494/f36096f995c9244a7e0298eeeadd53d0.webp" width="40" height="40" alt="discord logo"  />
-</a>
-<a href="https://discord.gg/aoijs" target="_blank">
-    <img src="https://cdn.discordapp.com/icons/1084863647211339807/a_f795b039af5ed1345245c96a3bd0b83a.gif" width="40" height="40" alt="discord logo"  />
-</div>
-
-<br />
-
 
 [instagram]: https://www.instagram.com/astezia_0
 <br />
