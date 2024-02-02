@@ -31,7 +31,7 @@
 
 <img src="https://raw.githubusercontent.com/asteziaw/asteziaw/output/snake.svg" alt="Snake animation" />
 
-###
+
 
 [instagram]: https://www.instagram.com/astezia_0
 <br />
