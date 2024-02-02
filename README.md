@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dark25" alt="dark25" /></a> </p>
 
-- 🌱 I’m currently learning **Vue.js and Rust**
+-  [Lyra'yı Davet Etmek İçin Tıkla!]
 
-- 👯 I’m  looking to collaborate on [MezzCMS-Akiled](https://github.com/DevHabbos/MezzCMS-Akiled)
+-  [Kod Sunucuma Gelmek İçin Tıkla!](https://discord.gg/aoijs)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
