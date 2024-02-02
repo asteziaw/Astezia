@@ -16,8 +16,6 @@
     <img src="https://cdn.discordapp.com/icons/1084863647211339807/a_f795b039af5ed1345245c96a3bd0b83a.gif" width="40" height="40" alt="discord logo"  />
 </div>
 
-<br />
-
 -  ### İletişime geçmek için:
 
 <div align="left">
