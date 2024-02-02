@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm astezia</h1>
+<h1 align="center">Merhaba 👋, Ben astezia</h1>
 <h3 align="center">Ben onaylı bot geliştiricisi ve Front end developerım.</h3>
 
 -  [Lyra'yı Davet Etmek İçin Tıkla!]
