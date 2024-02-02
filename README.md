@@ -1,4 +1,4 @@
-[<img align="center" height="50" width="100" src="https://cdn.discordapp.com/avatars/784942624522895360/fa62210d718be76e61f30e0216029b33.webp" />]
+<img align="center" height="50" width="50" src="https://cdn.discordapp.com/avatars/784942624522895360/fa62210d718be76e61f30e0216029b33.webp" />
 <h1 align="center">Merhaba 👋, Ben astezia</h1>
 <h3 align="center">Ben onaylı bot geliştiricisi ve Front end developerım.</h3>
 
