@@ -29,10 +29,6 @@
     <img src="https://cdn.discordapp.com/avatars/1132625118779154494/f36096f995c9244a7e0298eeeadd53d0.webp" width="40" height="40" alt="discord logo"  />
 </div>
 
-<img src="https://raw.githubusercontent.com/asteziaw/asteziaw/output/snake.svg" alt="Snake animation" />
-
-
-
 [instagram]: https://www.instagram.com/astezia_0
 <br />
 
