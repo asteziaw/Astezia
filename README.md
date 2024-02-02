@@ -7,7 +7,7 @@
 
 -  ### İletişime geçmek için:
 
-### 📩 Connect with me:
+### Benimle iletişime geçmek için:
 
 
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
@@ -16,7 +16,7 @@
 <br />
 
 
-[instagram]: https://www.instagram.com/ibrahim_talha_demir
+[instagram]: https://www.instagram.com/astezia_0
 <br />
 
 
