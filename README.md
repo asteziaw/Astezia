@@ -28,7 +28,7 @@
 
 - ### Projelerim:
 
-<div align="right">
+<div align="left">
 <a href="https://discord.com/api/oauth2/authorize?client_id=1132625118779154494&scope=bot+applications.commands&permissions=8" target="_blank">
     <img src="https://cdn.discordapp.com/avatars/1132625118779154494/f36096f995c9244a7e0298eeeadd53d0.webp" width="40" height="40" alt="discord logo"  />
 </a>
