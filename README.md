@@ -7,7 +7,7 @@
 
 -  ### İletişime geçmek için:
 
-
+### Kullandığım yazılım dilleri ve uygulamalar:
 
 <img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" /> astezia0
 
