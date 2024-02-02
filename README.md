@@ -13,7 +13,7 @@
     <img src="https://cdn.discordapp.com/avatars/1132625118779154494/f36096f995c9244a7e0298eeeadd53d0.webp" width="40" height="40" />
 </a>
  <a href="https://discord.gg/aoijs" target="_blank">
-    <img align="left" height="40" src="https://i.hizliresim.com/b6n2gho.gif"  />
+    <img src="https://i.hizliresim.com/b6n2gho.gif" width="40" height="40"  />
 </div>
 
 -  ### İletişime geçmek için:
